@@ -4,6 +4,10 @@
 - Purpose
 - Usage 
 
+## Setup and Installation
+- [Setup](additional_documents/Setup.md)
+- [Installation](additional_documents/Setup.md)
+- [Onboarding Guide](additional_documents/Setup.md)
 
 ## Timeline
 
@@ -16,9 +20,4 @@
 ## Contributors
 - John Doe
 
-Link to Setup
-Link to Installation
-Link to Onboarding Info
-Link to Misc. Info
 
-### [Setup](additional_documents/Setup.md)
