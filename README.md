@@ -21,4 +21,4 @@ Link to Installation
 Link to Onboarding Info
 Link to Misc. Info
 
-## [Setup](additional_documents/Setup.md)
+### [Setup](additional_documents/Setup.md)
