@@ -1,8 +1,6 @@
-## Project Name ##
+## Project Name 
 
-----
-
-### Project Description ###
+### Project Description 
 - Purpose
 - Usage 
 
