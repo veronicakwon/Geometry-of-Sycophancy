@@ -5,9 +5,9 @@
 - Usage 
 
 ## Setup and Installation
-- [Setup](additional_documents/Setup.md)
-- [Installation](additional_documents/Setup.md)
-- [Onboarding Guide](additional_documents/Setup.md)
+- [Setup](additional_documents/setup.md)
+- [Installation](additional_documents/installation.md)
+- [Onboarding Guide](additional_documents/onboarding.md)
 
 ## Timeline
 
