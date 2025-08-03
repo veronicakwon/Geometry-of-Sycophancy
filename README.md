@@ -1,19 +1,19 @@
-## Project Name 
+# Project Name 
 
-### Project Description 
+## Project Description 
 - Purpose
 - Usage 
 
 
-### Timeline ### 
+## Timeline
 
-#### Stage 1 ####
+### Stage 1 
 - Date
 - Description 
 
-#### Stage 2 ####
+### Stage 2 
 
-#### Contributors ####
+## Contributors
 - John Doe
 
 Link to Setup
