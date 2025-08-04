@@ -4,10 +4,15 @@ The general structure is listing IDE/code-editor and language, dependencies and 
 
 - The IDE/code-editor and language needed, if not already installed.
 - Install SciPy
-``` C:\Users\Rajani>pip install scipy
+  
+```
+C:\Users\Rajani>pip install scipy
 ```
 - Clone the repo
-```git clone https://github.com/vishraj12/test-repo.git
+  
 ```
+git clone https://github.com/vishraj12/test-repo.git
+```
+
 
 
