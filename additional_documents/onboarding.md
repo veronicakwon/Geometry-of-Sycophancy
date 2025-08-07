@@ -4,17 +4,29 @@
 - Quick project description -> general description of what it is
 
 ## Key Features
-- It can add books to different virtual shelves. (example)
+- Key features of the project
 
 ## Tech Stack
 - Python 3.13
 - NumPy 2.3.2
+  
   [Setup](additional_documents/setup.md)
+  
   [Installation](additional_documents/installation.md)
 
-## Project Structure
-A detailed overview of key files and their purpose.
+## File Structure
+A detailed overview of the organisation of files in the repo.
+
+## Timeline
+Assuming the project has a proposed timeline, the milestones should be stated with the dates they are supposed to be completed by. 
+
+### Stage 1 
+Description - Date
+
+### Stage 2 
+Description - Date
 
 ## Communication Channels
-Method of communication including Discord or listing a meeting time in person and location.
+Method of communication, including Discord or listing a meeting time in person and location.
+
 
