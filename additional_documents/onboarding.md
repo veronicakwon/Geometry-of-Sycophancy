@@ -1,10 +1,10 @@
 # Onboarding Guide
 
 ## Project Name
-Quick project description -> general description of what it is
+Quick project description -> general description of its purpose and what it is
 
 ## Key Features
-Key features of the project
+Key features of the project 
 
 ## Tech Stack
 The combination of tech used to build/run the software. 
@@ -13,7 +13,7 @@ The combination of tech used to build/run the software.
 A detailed overview of the organisation of files in the repo.
 
 ## Architectural Diagram 
-Visual representation of all the components in the project and their interactions. 
+Visual representation of all project components and their interactions. 
 
 ## Timeline
 Assuming the project has a proposed timeline, the milestones should be stated with the dates by which they are supposed to be completed. 
@@ -26,6 +26,7 @@ Description - Date
 
 ## Communication Channels
 Method of communication, including Discord or listing a meeting time in person and location.
+
 
 
 
