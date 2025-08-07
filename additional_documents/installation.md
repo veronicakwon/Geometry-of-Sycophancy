@@ -1,12 +1,18 @@
 # Installation
-This is where detailed configuration will go after installation of the necessary files. This section is optional, depending on whether there is additional configuration required after setup. 
-Listed below are some examples of installation instructions. 
+This is where you list the necessary libraries, languages and packages that are needed.  
+The general structure is listing IDE/code-editor and language, dependencies and then general installation (e.g. cloning the repo/specialised instructions that is required for each contributor). 
 
-- Install project as a package
+- The IDE/code-editor and language needed, if not already installed.
+- Install SciPy
+  
 ```
-pip install .
+C:\Users\Rajani>pip install scipy
 ```
-- Compiling code
+- Clone the repo
+  
+```
+git clone https://github.com/vishraj12/test-repo.git
+```
 
 
 
