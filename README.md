@@ -17,4 +17,7 @@ This is primarily where you go over the relevance of your project and how it can
 - [Vishaka Rajani](https://github.com/vishraj12)
 - [John Doe](https://github.com/vishraj12)
 
+## Important Links
+Any additional information that isn't covered under the sections above
+
 
