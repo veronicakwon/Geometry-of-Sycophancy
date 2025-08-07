@@ -7,7 +7,6 @@ This is where you describe the project itself, stating any external resources us
 This is primarily where you go over the relevance of your project and how it can be used, utilising examples or in-depth descriptions. 
 
 ## Setup and Installation
-- [Setup](additional_documents/setup.md)
 - [Installation](additional_documents/installation.md)
 - [Onboarding Guide](additional_documents/onboarding.md)
 
