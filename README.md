@@ -15,15 +15,6 @@ This is primarily where you go over the relevance of your project and how it can
 - Problems encountered that have not been resolved
 - Debating including this section
 
-## Timeline
-Assuming the project has a proposed timeline, the milestones should be stated with the dates they are supposed to be completed by. 
-
-### Stage 1 
-Description - Date
-
-### Stage 2 
-Description - Date
-
 ## Contributors
 - [Vishaka Rajani](https://github.com/vishraj12)
 - [John Doe](https://github.com/vishraj12)
